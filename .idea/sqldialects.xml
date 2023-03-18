@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/LiveSession/Review.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day1/distinct.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day1/select.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day1/where.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day2/aggreagate_functions.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day2/groupBy.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day3/rownum.sql" dialect="GenericSQL" />
   </component>
 </project>
