@@ -15,3 +15,8 @@ select SALARY, EMAIL from EMPLOYEES;
 -- display all information from locations table
 
 select * from LOCATIONS;
+
+
+
+
+select * from FRIENDS;

@@ -1,0 +1,1 @@
+select DEPARTMENT_ID from DEPARTMENTS where DEPARTMENT_NAME = 'Marketing'

@@ -37,3 +37,6 @@ where JOB_ID like '%IT%';
 
 select * from EMPLOYEES
 where FIRST_NAME like 'H%' and FIRST_NAME like '%l';
+
+
+select * from EMPLOYEES;
